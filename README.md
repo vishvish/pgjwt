@@ -1,4 +1,4 @@
-# pgjwt_rs
+# pgjwt
 
 [![CI](https://github.com/vishvish/pgjwt_rs/actions/workflows/tests.yml/badge.svg)](https://github.com/vishvish/pgjwt_rs/actions/workflows/tests.yml)
 
